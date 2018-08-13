@@ -8,4 +8,4 @@ CLI generator for creating empty react component
 
 ## Usage
 
-> ecg create <Component Name>
+> ecg-create ComponentName
